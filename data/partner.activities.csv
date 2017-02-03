@@ -640,7 +640,7 @@
 "eco_acti_630910","eco_acti_63",630910,"Agencias de Aduanas","ND",1,1
 "eco_acti_630920","eco_acti_63",630920,"Agencias de Transporte","ND",1,1
 "eco_acti_641100","eco_acti_641",641100,"Actividades Postales Nacionales","ND",1,1
-"eco_acti_641200","eco_acti_641",641200,"Actividades de Correo Distintas de Las Actividades Postales Nacionales","ND",1,1
+"eco_acti_641200","eco_acti_641",641200,"Actividades de Correo Distintas de Las Actividades Postales Nacionales","SI",1,1
 "eco_acti_642010","eco_acti_642",642010,"Servicios de Telefonía Fija","SI",1,1
 "eco_acti_642020","eco_acti_642",642020,"Servicios de Telefonía Móvil","SI",1,1
 "eco_acti_642030","eco_acti_642",642030,"Portadores Telefónicos (Larga Distancia Nacional E Internacional)","SI",1,1
