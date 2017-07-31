@@ -11,7 +11,7 @@
                         options="{'no_create': True}" domain="[('parent_id', '>=', 1)]"
                         invisible="True"/>
                     <!-- posiblemente sea eliminada como obsoleto, ya que no se necesita actividad sii en clientes, solamente en compñia-->
-                    <field name="activity_description" />
+                    <field name="activity_description" placeholder="Glosa Descriptiva (Giro)"/>
                 </field>
             </field>
         </record>
